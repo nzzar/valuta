@@ -8,6 +8,10 @@ class CategoryItem {
 
 var categoryItemsDemo = [
 
+  CategoryItem(name: "Mata Uang lokal",
+  imagePath: "assets/images/rp.png",
+  ),
+
   // CategoryItem(
   //   name: "Fresh Fruits & Vegetables",
   //   imagePath: "assets/images/categories_images/fruit.png",

@@ -82,7 +82,7 @@ class CartScreen extends StatelessWidget {
         borderRadius: BorderRadius.circular(4),
       ),
       child: Text(
-        "\$12.96",
+        "\RP. 1000",
         style: TextStyle(fontWeight: FontWeight.w600),
       ),
     );
